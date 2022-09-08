@@ -52,7 +52,7 @@ def parse_image_urls(classes, location, source):
             results.append(name.get(source))
 ```
 
-Note that we now append in a different manner.  Instead of appending the text, we use another function ‘get()’ and add a new parameter ‘source’ to it. We use ‘source’ to indicate the field in the website where image links are stored . They will be nested in a ‘src’, ‘data-src’ or other similar HTML tags.
+Note that we now append in a different manner.  Instead of appending the text, we use another function `get()` and add a new parameter ‘source’ to it. We use ‘source’ to indicate the field in the website where image links are stored . They will be nested in a ‘src’, ‘data-src’ or other similar HTML tags.
 
 ## Moving forward with defined functions
 
