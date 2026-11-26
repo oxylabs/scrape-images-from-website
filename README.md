@@ -1,6 +1,6 @@
 # Scrape Images From a Website with Python
 
-[![Oxylabs promo code](https://raw.githubusercontent.com/oxylabs/product-integrations/refs/heads/master/Affiliate-Universal-1090x275.png)](https://oxylabs.io/pages/gitoxy?utm_source=877&utm_medium=affiliate&groupid=877&utm_content=scrape-images-from-website-github&transaction_id=102f49063ab94276ae8f116d224b67)
+[![Oxylabs promo code](https://raw.githubusercontent.com/oxylabs/product-integrations/refs/heads/master/Affiliate-Universal-1090x275.png)](https://oxylabs.io/pages/gitoxy?utm_source=github&utm_medium=referral&utm_content=scrape-images-from-website&utm_campaign=banner&groupid=877)
 
 <p align="left">
   <a href="https://dashboard.oxylabs.io"><img src="https://img.shields.io/badge/%F0%9F%9A%80_Get_Started-FF6B35?style=for-the-badge" alt="Get started"></a>
@@ -40,7 +40,7 @@ def function_name(arguments):
     # Function body goes here.
 ```
 
-We’ll move our URL scraper into a defined function. Additionally, we will reuse the same code we used in the [“Python Web Scraping Tutorial: Step-by-Step” article](https://oxylabs.io/blog/python-web-scraping) and repurpose it to scrape full URLs.
+We’ll move our URL scraper into a defined function. Additionally, we will reuse the same code we used in the [“Python Web Scraping Tutorial: Step-by-Step” article](https://oxylabs.io/blog/python-web-scraping?utm_source=github&utm_medium=referral&utm_content=scrape-images-from-website&groupid=877) and repurpose it to scrape full URLs.
 
 Before
 
